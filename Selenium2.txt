@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+	<test name="Test">
+
+		<classes>
+			<class name="BDAEUser.AEUserProf">
+				<methods>
+					<include name="Launch" />
+					<include name="Login" />
+					<include name="ManageUser" />
+					<include name="CopyUser" />					
+					<include name="SwitchUser" />
+					<include name="QueryUser" />
+					<include name="ViewUser" />
+					<include name="ChangePassword" />
+					<include name="ModifyUser" />
+					<include name="ViewApplication" />
+					<include name="CreateUser" />
+					
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite> 
